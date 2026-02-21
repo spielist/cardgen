@@ -193,9 +193,6 @@ public class Processor {
 
             i++;
 
-            if(i > 10) {
-                break;
-            }
         }
 
     }
